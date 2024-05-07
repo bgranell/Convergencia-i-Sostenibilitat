@@ -1,5 +1,5 @@
 # Convergència i Sostenibilitat
-## Descomposició de la dinàmica de les emissions de gasos d'efecte hivernacle (GEH).
+## Descomposició de la dinàmica d'emissions de gasos d'efecte hivernacle (GEH).
 TFG titulat "Convergència i Sostenibilitat" i tutoritzat pel reconegut economista català Albert Carreras de Odriozola. Puntuat amb un 9,5.
 
 Davant de la pregunta ¿Quin impacte tindria en les emissions de GEH globals la efectiva convergència dels països en vies de desenvolupament i subdesenvolupats a nivells del primer món?, vaig fer una regressió lineal per cada país d'interès del seu històric d'emissions al llarg de 50 anys amb el seu PIBpc, amb correlacions de vora el 97-98%.
