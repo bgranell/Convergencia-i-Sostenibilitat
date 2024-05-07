@@ -11,7 +11,7 @@ $$ Emissions = PIBpc * Emissions/PIBpc $$
 
 El descobriment va resultar bastant evident quan vaig acabar d'entendre'l, i es que la taxa d'increment de les emissions és igual a la suma de la taxa d'increment del PIBpc i la taxa d'increment de la intensitat d'emissió per cada unitat de PIBpc. Havia fet un raonament primitiu que ja va fer Yoichi Kaya l'any 1993, creant la identitat de Kaya:
 
-$$ Emissions = Població * PIB/Població * Energia/PIB * CO2/Energia $$
+$$ Emissions = Població * PIB/Població * Energia/PIB * Emissions/Energia $$
 
 D'aquesta manera, i amb el coneixement de que alguns països ja van establir el seu màxim anual d'emissions vora l'any 2003 i que alguns encara baten el seu màxim d'emissions any rere any, vaig veure que la causa no era que aquests últims no fessin tants esforços com els primers en millores d'eficiència de les emissions per unitat de PIBpc, sinó que aquest increment de l'eficiència es veia engolit per un increment més gran en PIBpc, ***fent perfectament compatible ser més eficient amb contaminar més***.
 
