@@ -9,7 +9,7 @@ library(ggplot2)
 
 #Filtrem dades de PIBpc entre 1970 i 2018.
 
-PIBpc_històric_paisos <- read_excel("C:/Users/admin/Desktop/Inquietdus Programació/Històric PIBpc Països.xls", 2)
+PIBpc_històric_paisos <- read_excel("C:/Users/admin/Desktop/Inquietuds Programació/Històric PIBpc Països.xls", 2)
 PIBpc_històric_paisos
 
 PIBpc_històric_paisos <- rename(PIBpc_històric_paisos, Year = Country)
