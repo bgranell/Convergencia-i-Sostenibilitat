@@ -15,7 +15,7 @@ El descobriment va resultar bastant evident quan vaig acabar d'entendre'l, i es 
 
 $$ Emissions = Població * PIB/Població * Energia/PIB * Emissions/Energia $$
 
-D'aquesta manera, i amb el coneixement de que alguns països ja van establir el seu màxim anual d'emissions vora l'any 2003 i que alguns encara baten el seu màxim d'emissions any rere any, vaig veure que la causa no era que aquests últims no fessin tants esforços com els primers en millores d'eficiència de les emissions per unitat de PIBpc, sinó que aquest increment de l'eficiència es veia engolit per un increment més gran en PIBpc, ***fent perfectament compatible ser més eficient amb contaminar més***.
+D'aquesta manera, i amb el coneixement de que alguns països ja van establir el seu màxim anual d'emissions vora l'any 2003 i que alguns encara baten el seu màxim d'emissions any rere any, vaig veure que la causa no era que aquests últims no fessin tants esforços com els primers en millores d'eficiència de les emissions per unitat de PIBpc, sinó que aquest increment de l'eficiència es veia engolit per un increment més gran en PIBpc, **fent perfectament compatible ser més eficient amb contaminar més**.
 
 ESP
 
@@ -34,4 +34,4 @@ El descubrimiento resultó bastante evidente cuando acabé de entenderlo, y es q
 
 $$ Emisiones = Población * PIB/Población * Energía/PIB * Emisiones/Energía $$
 
-De este modo, y con el conocimiento de que algunos países ya establecieron su máximo anual de emisiones en torno al año 2003 y que algunos todavía baten su máximo de emisiones año tras año, vi que la causa no era que estos últimos no hicieran tantos esfuerzos como los primeros en mejoras de eficiencia de las emisiones por unidad de PIBpc, sino que este incremento de la eficiencia se veía tragado por un mayor incremento en PIBpc, haciendo perfectamente compatible ser más eficiente con contaminar más***.
+De este modo, y con el conocimiento de que algunos países ya establecieron su máximo anual de emisiones en torno al año 2003 y que algunos todavía baten su máximo de emisiones año tras año, vi que la causa no era que estos últimos no hicieran tantos esfuerzos como los primeros en mejoras de eficiencia de las emisiones por unidad de PIBpc, sino que este incremento de la eficiencia se veía tragado por un mayor incremento en PIBpc, **haciendo perfectamente compatible ser más eficiente con contaminar más**.
